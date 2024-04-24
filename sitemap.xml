@@ -10,11 +10,27 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tomohiro-git.github.io/webpage.io/publication-type/2/</loc>
+    <lastmod>2024-04-17T14:53:06+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-nodate/</loc>
+    <lastmod>2024-04-17T14:53:06+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomohiro-git.github.io/webpage.io/publication_types/</loc>
+    <lastmod>2024-04-17T14:53:06+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tomohiro-git.github.io/webpage.io/publication/</loc>
     <lastmod>2024-04-17T14:53:06+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-transferability-2023/</loc>
+    <loc>https://tomohiro-git.github.io/webpage.io/publication-type/1/</loc>
+    <lastmod>2024-04-17T14:53:06+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-etal-2024-assessing/</loc>
     <lastmod>2024-04-17T14:53:06+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -30,10 +46,6 @@
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomohiro-git.github.io/webpage.io/publication_types/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tomohiro-git.github.io/webpage.io/tag/source-themes/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -42,8 +54,12 @@
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomohiro-git.github.io/webpage.io/publication/journal-article/</loc>
+    <loc>https://tomohiro-git.github.io/webpage.io/publication/_journal-article/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-transferability-2023/</loc>
+    <lastmod>2024-04-17T14:53:06+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomohiro-git.github.io/webpage.io/</loc>
@@ -114,7 +130,7 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomohiro-git.github.io/webpage.io/publication/conference-paper/</loc>
+    <loc>https://tomohiro-git.github.io/webpage.io/publication/_conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
