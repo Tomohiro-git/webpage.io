@@ -33,18 +33,18 @@
     </item>
     
     <item>
-      <title>NAISTSOC at the NTCIR-16 Real-MedNLP Task</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-nodate/</link>
-      <pubDate>Wed, 24 Apr 2024 07:49:21 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-nodate/</guid>
+      <title>Assessing Authenticity and Anonymity of Synthetic User-generated Content in the Medical Domain</title>
+      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-assessing-2024/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-assessing-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Assessing Authenticity and Anonymity of Synthetic User-generated Content in the Medical Domain</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-etal-2024-assessing/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-etal-2024-assessing/</guid>
+      <title>NTCIR-17 MedNLP-SC Social Media Adverse Drug Event Detection: Subtask Overview</title>
+      <link>https://tomohiro-git.github.io/webpage.io/publication/wakamiya-ntcir-17-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://tomohiro-git.github.io/webpage.io/publication/wakamiya-ntcir-17-2023/</guid>
       <description></description>
     </item>
     
@@ -97,28 +97,25 @@
     
     <item>
       <title>Transferability Based on Drug Structure Similarity in the Automatic Classification of Noncompliant Drug Use on Social Media: Natural Language Processing Approach</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/_journal-article/</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/_journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Transferability Based on Drug Structure Similarity in the Automatic Classification of Noncompliant Drug Use on Social Media: Natural Language Processing Approach</title>
       <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-transferability-2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-transferability-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KEEPHA at n2c2 2022: Track 1</title>
+      <link>https://tomohiro-git.github.io/webpage.io/publication/raithel-keepha-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomohiro-git.github.io/webpage.io/publication/raithel-keepha-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAISTSOC at the NTCIR-16 Real-MedNLP Task</title>
+      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-2022/</guid>
       <description></description>
     </item>
     
@@ -306,7 +303,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-912768345&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-912543678&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -316,7 +313,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-912768345&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-912543678&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -597,24 +594,10 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/preprint_/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/preprint_/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Slides</title>
-      <link>https://tomohiro-git.github.io/webpage.io/slides/example/</link>
+      <link>https://tomohiro-git.github.io/webpage.io/slides_/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/slides/example/</guid>
+      <guid>https://tomohiro-git.github.io/webpage.io/slides_/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -754,25 +737,6 @@ $$&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://tomohiro-git.github.io/webpage.io/project_/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/_conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/_conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

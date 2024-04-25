@@ -5,7 +5,7 @@
     <link>https://tomohiro-git.github.io/webpage.io/publication/</link>
       <atom:link href="https://tomohiro-git.github.io/webpage.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Apr 2024 07:49:21 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomohiro-git.github.io/webpage.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,38 +13,19 @@
     </image>
     
     <item>
-      <title>NAISTSOC at the NTCIR-16 Real-MedNLP Task</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-nodate/</link>
-      <pubDate>Wed, 24 Apr 2024 07:49:21 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-nodate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Assessing Authenticity and Anonymity of Synthetic User-generated Content in the Medical Domain</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-etal-2024-assessing/</link>
+      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-assessing-2024/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-etal-2024-assessing/</guid>
+      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-assessing-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transferability Based on Drug Structure Similarity in the Automatic Classification of Noncompliant Drug Use on Social Media: Natural Language Processing Approach</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/_journal-article/</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/_journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>NTCIR-17 MedNLP-SC Social Media Adverse Drug Event Detection: Subtask Overview</title>
+      <link>https://tomohiro-git.github.io/webpage.io/publication/wakamiya-ntcir-17-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://tomohiro-git.github.io/webpage.io/publication/wakamiya-ntcir-17-2023/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -56,36 +37,19 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/preprint_/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/preprint_/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>KEEPHA at n2c2 2022: Track 1</title>
+      <link>https://tomohiro-git.github.io/webpage.io/publication/raithel-keepha-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomohiro-git.github.io/webpage.io/publication/raithel-keepha-2022/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/_conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/_conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>NAISTSOC at the NTCIR-16 Real-MedNLP Task</title>
+      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-2022/</guid>
+      <description></description>
     </item>
     
   </channel>

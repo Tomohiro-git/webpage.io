@@ -5,7 +5,7 @@
     <link>https://tomohiro-git.github.io/webpage.io/publication-type/2/</link>
       <atom:link href="https://tomohiro-git.github.io/webpage.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Apr 2024 07:49:21 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomohiro-git.github.io/webpage.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>NAISTSOC at the NTCIR-16 Real-MedNLP Task</title>
-      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-nodate/</link>
-      <pubDate>Wed, 24 Apr 2024 07:49:21 +0000</pubDate>
-      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-nodate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Transferability Based on Drug Structure Similarity in the Automatic Classification of Noncompliant Drug Use on Social Media: Natural Language Processing Approach</title>
       <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-transferability-2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-transferability-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAISTSOC at the NTCIR-16 Real-MedNLP Task</title>
+      <link>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomohiro-git.github.io/webpage.io/publication/nishiyama-naistsoc-2022/</guid>
       <description></description>
     </item>
     
